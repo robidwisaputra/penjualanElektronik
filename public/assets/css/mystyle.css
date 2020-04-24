@@ -1,0 +1,23 @@
+#icon-home, #icon-product, #icon-about{
+	color : #2196F3;
+}
+
+#icon-member, #icon-buying{
+	color: #FF7588;
+}
+
+#icon-supplier, #icon-selling{
+	color: #16D39A;
+}
+
+#icon-employee, #icon-report-buying{
+	color: #FFB64D;
+}
+
+#icon-brand, #icon-setting{
+	color: #ab7967;
+}
+
+#icon-category, #icon-report-selling{
+	color: #39ADB5;
+}
